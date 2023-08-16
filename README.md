@@ -5,7 +5,7 @@ Steps (
         Create any example web server
     )
     step 2(
-        Create a Dockerfile and build this image with Rancher
+        Create a Dockerfile and build this image
     )
     step 3(
         Using kubenertes with Rancher
